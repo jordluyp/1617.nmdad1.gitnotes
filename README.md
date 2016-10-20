@@ -1,9 +1,9 @@
 |                     |                                |
 |:------------------- |:------------------------------ |
-| Student             | Simon Decloedt                 |
+| Student             | Jordy Luypaert              |
 | Opleidingsonderdeel | New Media Design & Development |
 | Afstudeerrichting   | Multimediaproductie (MMP)      |
-| Specialisatie       | proDEV                         |
+| Specialisatie       | proDUCE                        |
 | Academiejaar        | 2016-2017                      |
 | Onderwijsinstelling | Arteveldehogeschool            |
 
